@@ -19,3 +19,7 @@ List Studi Kasus:
    Fokus     : Melakukan Scanning Vulnerability untuk melihat indikator celah keamanan dan ini aktivitas rutin setiap 3 Bulan sekali.
    Tools     : Nikto, OWASP ZAProxy, Niclei, BurpSuite
 
+4. Monitoring Alerts
+   Fokus     : Melakukan monitoring alerts endpoind 7/24 dan fixed alerts.
+   Tools     : Sangfor Athena XDR EPP
+
