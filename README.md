@@ -7,19 +7,27 @@ Halo! Repository ini berisi kumpulan studi kasus publik mengenai Wazuh SIEM IDS 
 
 List Studi Kasus:
 
-1. Dokumentasi DNS Server Agent Linux
+1. Analisis Malware
+   Fokus     : Melakukan Analisa malware terhadap sistem website, dan memeriksa semua file berbahaya apa saja yang di tanam di dalam backdoor.
+   Tools     : REMnux dan CyberChef
+
+2. CTF-BSSN
+   Fokus     : Menganalisa skenario berisi serangan cyber yang mengeksploitasi keretanan pada platform WordPress, dan mengenali pola serangan serta jejak dari hacker itu sendiri.
+   Tools     : hexed.it, Wireshark, CyberCheef, dan REMnux
+
+3. Dokumentasi DNS Server Agent Linux
    Fokus     : Mendeteksi serangan pada service DNS server linux dan penggunaan rules wazuh, serta pengoptimalan membaca notifikasi melalui                      telegram bot.
    Tools     : Terminal, BurpSuite, Wazuh Dashboard, dan Telegram
 
-2. Dokumentasi Database Agent Linux
+4. Dokumentasi Database Agent Linux
    Fokus     :  Mendeteksi serangan pada service DB server linux dan penggunaan rules wazuh, serta pengoptimalan membaca notifikasi melalui                      telegram bot.
    Tools     : Terminal, BurpSuite, Wazuh Dashboard, dan Telegram
 
-3. Hasil Scan Web dan API
+5. Hasil Scan Web dan API
    Fokus     : Melakukan Scanning Vulnerability untuk melihat indikator celah keamanan dan ini aktivitas rutin setiap 3 Bulan sekali.
    Tools     : Nikto, OWASP ZAProxy, Niclei, BurpSuite
 
-4. Monitoring Alerts
+6. Monitoring Alerts
    Fokus     : Melakukan monitoring alerts endpoind 7/24 dan fixed alerts.
    Tools     : Sangfor Athena XDR EPP
 
