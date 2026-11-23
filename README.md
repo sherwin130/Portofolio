@@ -1,7 +1,7 @@
 # Portofolio
 Kumpulan Laporan Studi Kasus
 
-Halo! Repository ini berisi kumpulan studi kasus publik mengenai Wazuh SIEM IDS, monitoring dan fixed alerts, analisa malware dan vulnerability assesment. 
+Halo... repository ini berisi kumpulan studi kasus publik mengenai Wazuh SIEM IDS, Monitoring dan Fixed Alerts, Analisa Malware dan Vulnerability Assesment.
 
 (Catatan: Untuk menjaga kerahasiaan data dan mematuhi kebijakan keamanan, hanya 3 studi kasus pilihan yang telah disanitasi yang ditampilkan di sini. Seluruh indikator sensitif seperti IP internal, nama domain, dan identitas host telah disamarkan).
 
